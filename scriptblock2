@@ -1,0 +1,3 @@
+function Invoke-HelloWorld {
+  Write-Output "Hello, world!"
+}
